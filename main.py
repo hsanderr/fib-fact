@@ -46,7 +46,7 @@ fibonacci = list(map(fib, evenIndexData))
 factorial = list(map(fact, oddIndexData))
 
 # Create output data
-outputLines = ["Linha {}:\tfibonacci: {}\tfactorial: {}\n".format(i, fibonacci[i], factorial[i]) for i in range(len(fibonacci))]
+outputLines = ["Linha {}:\tfib({}) = {}\tfact({}) = {}\n".format(i, evenIndexData[i], fibonacci[i], oddIndexData[i], factorial[i]) for i in range(len(fibonacci))]
 outputData = ''.join(outputLines)
 
 # Write output file

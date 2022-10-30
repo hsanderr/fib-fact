@@ -1,5 +1,5 @@
-Linha 0:	fibonacci: 1	factorial: 6
-Linha 1:	fibonacci: 1	factorial: 24
-Linha 2:	fibonacci: 0	factorial: 120
-Linha 3:	fibonacci: 13	factorial: 2
-Linha 4:	fibonacci: 8	factorial: 1
+Linha 0:	fib(1) = 1	fact(3) = 6
+Linha 1:	fib(2) = 1	fact(4) = 24
+Linha 2:	fib(0) = 0	fact(5) = 120
+Linha 3:	fib(7) = 13	fact(2) = 2
+Linha 4:	fib(6) = 8	fact(0) = 1
